@@ -23,7 +23,7 @@
 }
 
 .usuario img {
-  width: 20%;
+  width: 25%;
   border-radius: 50%;
   padding: 20px;
   padding-left: 20px;
@@ -49,7 +49,7 @@
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  padding: 0 0 0 77px;
+  padding: 0 0 0 50px;
 }
 
 button{
